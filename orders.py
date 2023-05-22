@@ -97,7 +97,6 @@ if gift=="y":
     wrap=1
 else:
     wrap=0
-print(f"tot1: {tot1}, tot2: {tot2}, tot3: {tot3}, tot4: {tot4}")
 print("Products       quantity   price ")
 print(f"Product 1:  \t {p1}\t  {(p1*20)}$")
 print(f"Product 2:  \t {p2}\t  {(p2*40)}$")
